@@ -1,0 +1,4 @@
+nnode_modules
+dist
+.firebase
+*.log
